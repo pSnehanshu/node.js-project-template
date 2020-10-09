@@ -3,5 +3,5 @@
 ## Usage
 
 ```bash
-npx create-project  pSnehanshu/node.js-project-template 
+npx create-project project-name pSnehanshu/node.js-project-template 
 ```
